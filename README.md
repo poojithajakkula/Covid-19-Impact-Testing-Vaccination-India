@@ -110,7 +110,7 @@ Python was used to perform exploratory data analysis to identify COVID-19 trends
 
 ### Page 2 — State Impact & Severity
 
-![State Impact & Severity](images/Covid19_State_impact_severity.png)
+![State Impact & Severity](images/State_impact_severity.png)
 
 ### Page 3 — Testing & Vaccination
 
