@@ -114,7 +114,7 @@ Python was used to perform exploratory data analysis to identify COVID-19 trends
 
 ### Page 3 — Testing & Vaccination
 
-![Testing & Vaccination](images/Covid19_Testing_vaccination.png)
+![Testing & Vaccination](images/Testing_vaccination.png)
 
 The Power BI dashboard presents the major findings from the analysis through interactive visualizations.
 
