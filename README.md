@@ -106,7 +106,7 @@ Python was used to perform exploratory data analysis to identify COVID-19 trends
 
 ### Page 1 — India_Covid19_Overview
 
-![India COVID-19 Overview](images/India_covid19_overview.png)
+![India COVID-19 Overview](images/india_covid19_overview.png)
 
 ### Page 2 — State Impact & Severity
 
